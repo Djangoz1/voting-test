@@ -1,6 +1,6 @@
 # Test Voting 
 
-$ Remarque $
+$Remarque$
 Les tests ont été effectué avant que je rattrape les cours sur la semaine de tests. Je me rend compte qu'il y a pas mal de recommendation que je n'ai pas respecter :
 
 - Le ``new Contract``à la place de ``contract.deploy``.
